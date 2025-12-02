@@ -2,8 +2,8 @@
 //----------------------------------------------------------------------------------------------
             //definindo valores de conexão:
             $host = "localhost";
-            $user = "root";
-            $password = "root";
+            $user = "root"; // Coloque o nome do seu usuário MySQL
+            $password = "root"; // Aqui, coloque a senha do seu usuário do MySQL
             $database = "vitoria_lanches";
 
             //abrindo conexão e verificando se há erros:
