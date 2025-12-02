@@ -1,0 +1,48 @@
+body {
+    background-image: url("../../imgs/background_vitoria_lanches.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 84vh;
+}
+
+#form-principal {
+    background-color: #FFF3AE;
+    width: 350px;
+    height: 460px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    font-family: "Italiana";
+}
+
+#titulo {
+    margin-bottom: 5px;
+    font-size: 50px;
+    text-align: left;
+    margin-left: 60px;
+}
+
+.btn {
+    width: 280px;
+    height: 70px; 
+    font-family: "Italiana";
+    font-size: 24px;
+    border-radius: 15px;
+    background-color: firebrick;
+    color: white;
+
+}
+
+.italiana-regular {
+  font-family: "Italiana", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

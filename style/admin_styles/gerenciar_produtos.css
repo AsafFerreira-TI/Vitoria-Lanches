@@ -1,0 +1,11 @@
+.lista_produtos {
+    margin-top: -900px;
+}
+
+.painel_atualizar_produtos{
+    position: fixed;
+    margin-left: 550px;
+    margin-top: 200px;
+    align-items: center;
+    padding: 20px;
+}

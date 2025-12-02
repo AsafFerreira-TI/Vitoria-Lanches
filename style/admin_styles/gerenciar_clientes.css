@@ -1,0 +1,7 @@
+.painel_mostrar_clientes{
+    position: fixed;
+    margin-left: 360px;
+    margin-top: 10px;
+    align-items: start;
+    padding: 20px;
+}

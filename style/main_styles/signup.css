@@ -1,0 +1,90 @@
+body {
+    background-image: url("../../imgs/background_vitoria_lanches.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 92vh;
+}
+
+#signup_user_form {
+    background-color: #FFF3AE;
+    width: 350px;
+    height: 460px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+    font-family: "Italiana";
+}
+
+#titulo {
+    margin-bottom: 60px;
+    font-size: 50px;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.input {
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+#btn_signup {
+    margin-top: 20px;
+    width: 270px;
+    height: 70px; 
+    font-family: "Italiana";
+    font-size: 24px;
+    border-radius: 15px;
+    background-color: firebrick;
+    color: white;
+
+    transition: transform 0.3s ease;
+}
+
+#btn_signup:hover{
+    transform: scale(1.1);
+}
+
+
+.alert{
+    font-family: 'Times New Roman';
+    background-color: rgb(214, 105, 105);
+
+    width: 350px;
+    height: 45px;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 5px;
+}
+
+
+#btn_voltar {
+    width: 200px;
+    height: 50px;
+
+    margin-left: 20px;
+    border-radius: 15px;
+
+    background-color: rgb(124, 223, 173);
+    transition: transform 0.3s ease;
+}
+
+#btn_voltar:hover{
+    transform: scale(1.1);   
+}
+
+a {
+    text-decoration: none;
+    color: rgb(20, 66, 20);
+}
+
+.italiana-regular {
+  font-family: "Italiana", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
